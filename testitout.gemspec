@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.summary  = "0"
   s.email    = "coderrr.contact@gmail.com"
 #  s.homepage = "http://github.com/coderrr/monkey_shieldgrit"
-  s.description = "abc"
+  s.description = "ab c"
   s.has_rdoc = false
   s.authors  = ["coderrr"]
   s.files    = [
